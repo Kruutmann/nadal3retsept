@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Freeman&family=Sedan+SC&display=swap');
+body{
+    background-color: rgb(255, 204, 1);
+}
+
+.pealkiri{
+    color: chocolate;
+    font-family: "Sedan SC", serif;
+    text-align: center;
+
+
+}
+.tekst{
+    color:rgb(245, 245, 245);
+    
+}
+.koostisosad{
+    color:white;
+    th, td {
+        border: 1px solid black;
+        padding: 8px;
+        text-align: center;
+}}
+.footer{
+    text-align: center;
+    color: blueviolet;
+}
